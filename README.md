@@ -31,5 +31,6 @@ git clone https://github.com/Juanmarin2007/evaluacion1-git-github.git
 
 Repositorio del proyecto:
 
-https://github.com/Juanmarin2007/evaluacion1-git-github
+[Repositorio del proyecto](https://github.com/Juanmarin2007/evaluacion1-git-github)
+
 
