@@ -36,4 +36,5 @@ Criterios de aceptación:
 
 Criterios de aceptación:
 
-<!-- TODO: escribe al menos 2 criterios con el formato Dado / cuando / entonces -->
+- **Dado** que estoy en la sección de ubicación, **cuando** reviso la información, **entonces** veo la dirección del CDITI.
+- **Dado** que quiero llegar al evento, **cuando** pulso el enlace del mapa, **entonces** se abre el mapa con la ubicación del evento.
